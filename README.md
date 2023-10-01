@@ -10,5 +10,5 @@ The numbers chosen by the users can be negative too.
 [Demo Video of the code](https://github.com/Udit19-pixel/MotionCut-Java-Calculator/blob/main/Calculator/Calculator.mp4)
 ## Utilities
 - Java
-* Swing
-+ Visual Studio Code
+- Swing
+- Visual Studio Code
