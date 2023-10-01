@@ -6,4 +6,5 @@ like addition, subtraction, multiplication and division with floating point numb
 The numbers chosen by the users can be negative too.
 ## ScreenShots
 [Screenshots of the code](https://github.com/Udit19-pixel/MotionCut-Java-Calculator/tree/main/Calculator/Screenshots)
-[Demo Video](https://github.com/Udit19-pixel/MotionCut-Java-Calculator/blob/main/Calculator/Calculator.mp4)
+## Demo Video
+[Demo Video of the code](https://github.com/Udit19-pixel/MotionCut-Java-Calculator/blob/main/Calculator/Calculator.mp4)
